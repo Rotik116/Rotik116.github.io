@@ -1,0 +1,1166 @@
+{
+  "vaultName": "Riginator Revamp",
+  "lastExport": 1710768585284,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Brainstorming Things/Interactions or Scenes/The Insurgency at New Atlantis.md",
+    "Brainstorming Things/Mood Board/Images/New Atlantis.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231248.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231534.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231610.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231759.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231900.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231949.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231957.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232025.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232119.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232159.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232227.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232345.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232400.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20231005215143.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20240207224828.png",
+    "Brainstorming Things/Mood Board/Images/Pasted image 20240207224853.png",
+    "Brainstorming Things/Mood Board/City Brainstorming asesthetic.canvas",
+    "Brainstorming Things/Mood Board/Cover Aesthetics.canvas",
+    "Characters/PAL Incorporated/Global Operatives/Agent 0 (Jason Xavier).md",
+    "Characters/PAL Incorporated/Global Operatives/Agent 1 (Budi Permana).md",
+    "Characters/PAL Incorporated/Global Operatives/Agent 2 (Robin).md",
+    "Characters/PAL Incorporated/Global Operatives/Agent 3 (Svetlana Volkov).md",
+    "Characters/PAL Incorporated/Global Operatives/Agent N.md",
+    "Characters/PAL Incorporated/Global Operatives/N1lky (Steven Edwards).md",
+    "Characters/PAL Incorporated/Joseph Draven.md",
+    "Characters/PAL Incorporated/Kyle Wilson.md",
+    "Characters/The Insurgents/Akira Iekami.md",
+    "Characters/The Insurgents/Ina Winters.md",
+    "Characters/The Insurgents/Julia Edwards.md",
+    "Characters/The Insurgents/Reyn Keisuke.md",
+    "Characters/The Insurgents/Roy Keiji.md",
+    "Characters/The Three Heroes/Tom Karrie.md",
+    "Characters/Villains/Evelyn Draven.md",
+    "Characters/Villains/Lady Rorschach.md",
+    "Characters/Villains/Rev Ketsueki.md",
+    "Characters/Villains/Zundath.md",
+    "Characters/Ava Keisuke.md",
+    "Characters/Rosaline Ashley.md",
+    "Characters/WendiKnight (Wendi Edwards).md",
+    "Images/comic cover.png",
+    "Images/Pasted image 20240207224257.png",
+    "Images/Pasted image 20240207225953.png",
+    "Images/Pasted image 20240207230332.png",
+    "Images/Pasted image 20240219140105.png",
+    "Images/Pasted image 20240219140114.png",
+    "Images/Pasted image 20240219140158.png",
+    "Images/Pasted image 20240220113906.png",
+    "Images/Pasted image 20240220113925.png",
+    "Images/Pasted image 20240220113948.png",
+    "Images/Pasted image 20240220114141.png",
+    "Images/Pasted image 20240220143821.png",
+    "Images/Pasted image 20240220144348.png",
+    "Images/Pasted image 20240221114706.png",
+    "Images/Pasted image 20240221115934.png",
+    "Images/Pasted image 20240221143340.png",
+    "Images/Pasted image 20240222143501.png",
+    "Images/Pasted image 20240222144046.png",
+    "Images/Pasted image 20240222230926.png",
+    "Images/Pasted image 20240306110618.png",
+    "Images/Pasted image 20240313162857.png",
+    "Power System/HAVOC.md",
+    "Power System/HAVOX (Name Pending).md",
+    "Power System/Merged (Ultimate).md",
+    "Power System/Qi.md",
+    "Story Things/All Sagas/Part 1 - Starlight Saga.md",
+    "Story Things/All Sagas/Part 2 - Erased Saga.md",
+    "Story Things/All Sagas/Part 3 - Crystallized Saga.md",
+    "Story Things/All Sagas/Part 4 - Quietus Saga.md",
+    "Story Things/Zundath - Demon of San Fresco.md",
+    "Characters.canvas",
+    "Locations.canvas",
+    "Untitled Kanban.md",
+    "Welcome.md",
+    "lib/media/pasted-image-20231005215143.png",
+    "lib/media/pasted-image-20240220113906.png",
+    "lib/media/pasted-image-20240220113925.png",
+    "lib/media/pasted-image-20240220113948.png",
+    "lib/media/pasted-image-20240220114141.png",
+    "lib/media/pasted-image-20240306110618.png",
+    "lib/media/pasted-image-20240221114706.png",
+    "lib/media/pasted-image-20240220143821.png",
+    "lib/media/pasted-image-20240219140158.png",
+    "lib/media/pasted-image-20240207225953.png",
+    "lib/media/pasted-image-20240219140114.png",
+    "lib/media/pasted-image-20240222144046.png",
+    "lib/media/pasted-image-20240222230926.png",
+    "lib/media/pasted-image-20240222143501.png",
+    "lib/media/pasted-image-20240220144348.png",
+    "lib/media/pasted-image-20240313162857.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "images/pasted-image-20240222230926.png",
+    "images/pasted-image-20240222143501.png",
+    "images/comic-cover.png",
+    "images/pasted-image-20240219140114.png",
+    "images/pasted-image-20240219140158.png",
+    "images/pasted-image-20240220143821.png",
+    "images/pasted-image-20240207225953.png",
+    "images/pasted-image-20240220113906.png",
+    "images/pasted-image-20240220144348.png",
+    "images/pasted-image-20240313162857.png",
+    "images/pasted-image-20240220113925.png",
+    "images/pasted-image-20240220113948.png",
+    "images/pasted-image-20240220114141.png",
+    "images/pasted-image-20240221114706.png",
+    "images/pasted-image-20240222144046.png",
+    "images/pasted-image-20240306110618.png"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Characters.canvas": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 5461,
+      "exportedPath": "characters.html",
+      "dependencies": [
+        "images/pasted-image-20240222230926.png",
+        "images/pasted-image-20240222143501.png",
+        "images/comic-cover.png",
+        "images/pasted-image-20240219140114.png",
+        "images/pasted-image-20240219140158.png",
+        "images/pasted-image-20240220143821.png",
+        "images/pasted-image-20240207225953.png",
+        "images/pasted-image-20240220113906.png",
+        "images/pasted-image-20240220144348.png",
+        "images/pasted-image-20240313162857.png",
+        "images/pasted-image-20240220113925.png",
+        "images/pasted-image-20240220113948.png",
+        "images/pasted-image-20240220114141.png",
+        "images/pasted-image-20240221114706.png",
+        "images/pasted-image-20240222144046.png",
+        "images/pasted-image-20240306110618.png"
+      ]
+    },
+    "images/pasted-image-20240222230926.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 38677,
+      "exportedPath": "images/pasted-image-20240222230926.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240222143501.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 228324,
+      "exportedPath": "images/pasted-image-20240222143501.png",
+      "dependencies": []
+    },
+    "images/comic-cover.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 783524,
+      "exportedPath": "images/comic-cover.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240219140114.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 705031,
+      "exportedPath": "images/pasted-image-20240219140114.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240219140158.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 716257,
+      "exportedPath": "images/pasted-image-20240219140158.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240220143821.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 109546,
+      "exportedPath": "images/pasted-image-20240220143821.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240207225953.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 50367,
+      "exportedPath": "images/pasted-image-20240207225953.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240220113906.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 161763,
+      "exportedPath": "images/pasted-image-20240220113906.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240220144348.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 143478,
+      "exportedPath": "images/pasted-image-20240220144348.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240313162857.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 57254,
+      "exportedPath": "images/pasted-image-20240313162857.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240220113925.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 295549,
+      "exportedPath": "images/pasted-image-20240220113925.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240220113948.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 271150,
+      "exportedPath": "images/pasted-image-20240220113948.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240220114141.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 134101,
+      "exportedPath": "images/pasted-image-20240220114141.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240221114706.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 223581,
+      "exportedPath": "images/pasted-image-20240221114706.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240222144046.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 201256,
+      "exportedPath": "images/pasted-image-20240222144046.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240306110618.png": {
+      "modifiedTime": 1710768567021,
+      "sourceSize": 94923,
+      "exportedPath": "images/pasted-image-20240306110618.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 37804,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 3029,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 157356,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 6188,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 367,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "Brainstorming Things/Interactions or Scenes/The Insurgency at New Atlantis.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 2337,
+      "exportedPath": "brainstorming-things/interactions-or-scenes/the-insurgency-at-new-atlantis.html",
+      "dependencies": [
+        "lib/media/pasted-image-20231005215143.png"
+      ]
+    },
+    "Brainstorming Things/Mood Board/Images/New Atlantis.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1965554,
+      "exportedPath": "brainstorming-things/mood-board/images/new-atlantis.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231248.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1312144,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231248.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231534.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 649863,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231534.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231610.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1501981,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231610.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231759.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1658444,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231759.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231900.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 953203,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231900.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231949.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 615312,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231949.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923231957.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 673634,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231957.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232025.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 603786,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232025.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232119.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 833174,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232119.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232159.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 732920,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232159.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232227.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 576720,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232227.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232345.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1019816,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232345.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20230923232400.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1231871,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232400.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20231005215143.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 469060,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20231005215143.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20240207224828.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1531190,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20240207224828.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/Images/Pasted image 20240207224853.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 2068623,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20240207224853.png",
+      "dependencies": []
+    },
+    "Brainstorming Things/Mood Board/City Brainstorming asesthetic.canvas": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1624,
+      "exportedPath": "brainstorming-things/mood-board/city-brainstorming-asesthetic.html",
+      "dependencies": [
+        "brainstorming-things/mood-board/images/pasted-image-20230923231248.png",
+        "brainstorming-things/mood-board/images/pasted-image-20230923231534.png",
+        "brainstorming-things/mood-board/images/pasted-image-20230923231610.png",
+        "brainstorming-things/mood-board/images/pasted-image-20230923231759.png",
+        "brainstorming-things/mood-board/images/pasted-image-20230923231900.png",
+        "brainstorming-things/mood-board/images/pasted-image-20230923231957.png",
+        "brainstorming-things/mood-board/images/pasted-image-20230923231949.png",
+        "brainstorming-things/mood-board/images/pasted-image-20230923232025.png",
+        "brainstorming-things/mood-board/images/pasted-image-20230923232119.png"
+      ]
+    },
+    "Brainstorming Things/Mood Board/Cover Aesthetics.canvas": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 685,
+      "exportedPath": "brainstorming-things/mood-board/cover-aesthetics.html",
+      "dependencies": [
+        "brainstorming-things/mood-board/images/pasted-image-20230923232159.png",
+        "brainstorming-things/mood-board/images/pasted-image-20230923232227.png",
+        "brainstorming-things/mood-board/images/pasted-image-20230923232345.png",
+        "brainstorming-things/mood-board/images/pasted-image-20230923232400.png"
+      ]
+    },
+    "Characters/PAL Incorporated/Global Operatives/Agent 0 (Jason Xavier).md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 378,
+      "exportedPath": "characters/pal-incorporated/global-operatives/agent-0-(jason-xavier).html",
+      "dependencies": [
+        "lib/media/pasted-image-20240220113906.png"
+      ]
+    },
+    "Characters/PAL Incorporated/Global Operatives/Agent 1 (Budi Permana).md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 36,
+      "exportedPath": "characters/pal-incorporated/global-operatives/agent-1-(budi-permana).html",
+      "dependencies": [
+        "lib/media/pasted-image-20240220113925.png"
+      ]
+    },
+    "Characters/PAL Incorporated/Global Operatives/Agent 2 (Robin).md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 36,
+      "exportedPath": "characters/pal-incorporated/global-operatives/agent-2-(robin).html",
+      "dependencies": [
+        "lib/media/pasted-image-20240220113948.png"
+      ]
+    },
+    "Characters/PAL Incorporated/Global Operatives/Agent 3 (Svetlana Volkov).md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 133,
+      "exportedPath": "characters/pal-incorporated/global-operatives/agent-3-(svetlana-volkov).html",
+      "dependencies": [
+        "lib/media/pasted-image-20240220114141.png"
+      ]
+    },
+    "Characters/PAL Incorporated/Global Operatives/Agent N.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 0,
+      "exportedPath": "characters/pal-incorporated/global-operatives/agent-n.html",
+      "dependencies": []
+    },
+    "Characters/PAL Incorporated/Global Operatives/N1lky (Steven Edwards).md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 37,
+      "exportedPath": "characters/pal-incorporated/global-operatives/n1lky-(steven-edwards).html",
+      "dependencies": [
+        "lib/media/pasted-image-20240306110618.png"
+      ]
+    },
+    "Characters/PAL Incorporated/Joseph Draven.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 401,
+      "exportedPath": "characters/pal-incorporated/joseph-draven.html",
+      "dependencies": []
+    },
+    "Characters/PAL Incorporated/Kyle Wilson.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 36,
+      "exportedPath": "characters/pal-incorporated/kyle-wilson.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240221114706.png"
+      ]
+    },
+    "Characters/The Insurgents/Akira Iekami.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 3350,
+      "exportedPath": "characters/the-insurgents/akira-iekami.html",
+      "dependencies": []
+    },
+    "Characters/The Insurgents/Ina Winters.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 2267,
+      "exportedPath": "characters/the-insurgents/ina-winters.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240220143821.png"
+      ]
+    },
+    "Characters/The Insurgents/Julia Edwards.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 3053,
+      "exportedPath": "characters/the-insurgents/julia-edwards.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240219140158.png"
+      ]
+    },
+    "Characters/The Insurgents/Reyn Keisuke.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 3023,
+      "exportedPath": "characters/the-insurgents/reyn-keisuke.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240207225953.png"
+      ]
+    },
+    "Characters/The Insurgents/Roy Keiji.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 3388,
+      "exportedPath": "characters/the-insurgents/roy-keiji.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240219140114.png"
+      ]
+    },
+    "Characters/The Three Heroes/Tom Karrie.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 10,
+      "exportedPath": "characters/the-three-heroes/tom-karrie.html",
+      "dependencies": []
+    },
+    "Characters/Villains/Evelyn Draven.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 36,
+      "exportedPath": "characters/villains/evelyn-draven.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240222144046.png"
+      ]
+    },
+    "Characters/Villains/Lady Rorschach.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 37,
+      "exportedPath": "characters/villains/lady-rorschach.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240222230926.png"
+      ]
+    },
+    "Characters/Villains/Rev Ketsueki.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 834,
+      "exportedPath": "characters/villains/rev-ketsueki.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240222143501.png"
+      ]
+    },
+    "Characters/Villains/Zundath.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 36,
+      "exportedPath": "characters/villains/zundath.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240220144348.png"
+      ]
+    },
+    "Characters/Ava Keisuke.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 0,
+      "exportedPath": "characters/ava-keisuke.html",
+      "dependencies": []
+    },
+    "Characters/Rosaline Ashley.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 3439,
+      "exportedPath": "characters/rosaline-ashley.html",
+      "dependencies": [
+        "lib/media/pasted-image-20240313162857.png"
+      ]
+    },
+    "Characters/WendiKnight (Wendi Edwards).md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 10,
+      "exportedPath": "characters/wendiknight-(wendi-edwards).html",
+      "dependencies": []
+    },
+    "Images/comic cover.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 783524,
+      "exportedPath": "images/comic-cover.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240207224257.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1076062,
+      "exportedPath": "images/pasted-image-20240207224257.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240207225953.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 50367,
+      "exportedPath": "images/pasted-image-20240207225953.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240207230332.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 44333,
+      "exportedPath": "images/pasted-image-20240207230332.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240219140105.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 705031,
+      "exportedPath": "images/pasted-image-20240219140105.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240219140114.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 705031,
+      "exportedPath": "images/pasted-image-20240219140114.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240219140158.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 716257,
+      "exportedPath": "images/pasted-image-20240219140158.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240220113906.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 161763,
+      "exportedPath": "images/pasted-image-20240220113906.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240220113925.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 295549,
+      "exportedPath": "images/pasted-image-20240220113925.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240220113948.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 271150,
+      "exportedPath": "images/pasted-image-20240220113948.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240220114141.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 134101,
+      "exportedPath": "images/pasted-image-20240220114141.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240220143821.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 109546,
+      "exportedPath": "images/pasted-image-20240220143821.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240220144348.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 143478,
+      "exportedPath": "images/pasted-image-20240220144348.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240221114706.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 223581,
+      "exportedPath": "images/pasted-image-20240221114706.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240221115934.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 101192,
+      "exportedPath": "images/pasted-image-20240221115934.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240221143340.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 234229,
+      "exportedPath": "images/pasted-image-20240221143340.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240222143501.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 228324,
+      "exportedPath": "images/pasted-image-20240222143501.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240222144046.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 201256,
+      "exportedPath": "images/pasted-image-20240222144046.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240222230926.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 38677,
+      "exportedPath": "images/pasted-image-20240222230926.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240306110618.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 94923,
+      "exportedPath": "images/pasted-image-20240306110618.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240313162857.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 57254,
+      "exportedPath": "images/pasted-image-20240313162857.png",
+      "dependencies": []
+    },
+    "Power System/HAVOC.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1035,
+      "exportedPath": "power-system/havoc.html",
+      "dependencies": []
+    },
+    "Power System/HAVOX (Name Pending).md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1007,
+      "exportedPath": "power-system/havox-(name-pending).html",
+      "dependencies": []
+    },
+    "Power System/Merged (Ultimate).md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 989,
+      "exportedPath": "power-system/merged-(ultimate).html",
+      "dependencies": []
+    },
+    "Power System/Qi.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 500,
+      "exportedPath": "power-system/qi.html",
+      "dependencies": []
+    },
+    "Story Things/All Sagas/Part 1 - Starlight Saga.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 9059,
+      "exportedPath": "story-things/all-sagas/part-1-starlight-saga.html",
+      "dependencies": []
+    },
+    "Story Things/All Sagas/Part 2 - Erased Saga.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1799,
+      "exportedPath": "story-things/all-sagas/part-2-erased-saga.html",
+      "dependencies": []
+    },
+    "Story Things/All Sagas/Part 3 - Crystallized Saga.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1305,
+      "exportedPath": "story-things/all-sagas/part-3-crystallized-saga.html",
+      "dependencies": []
+    },
+    "Story Things/All Sagas/Part 4 - Quietus Saga.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 39,
+      "exportedPath": "story-things/all-sagas/part-4-quietus-saga.html",
+      "dependencies": []
+    },
+    "Story Things/Zundath - Demon of San Fresco.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 2318,
+      "exportedPath": "story-things/zundath-demon-of-san-fresco.html",
+      "dependencies": []
+    },
+    "Locations.canvas": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1018,
+      "exportedPath": "locations.html",
+      "dependencies": [
+        "brainstorming-things/mood-board/images/new-atlantis.png",
+        "images/pasted-image-20240221143340.png",
+        "brainstorming-things/mood-board/images/pasted-image-20240207224828.png",
+        "brainstorming-things/mood-board/images/pasted-image-20240207224853.png"
+      ]
+    },
+    "Untitled Kanban.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 253,
+      "exportedPath": "untitled-kanban.html",
+      "dependencies": []
+    },
+    "Welcome.md": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 0,
+      "exportedPath": "welcome.html",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20231005215143.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 469060,
+      "exportedPath": "lib/media/pasted-image-20231005215143.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923231248.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1312144,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231248.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923231534.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 649863,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231534.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923231610.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1501981,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231610.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923231759.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1658444,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231759.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923231900.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 953203,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231900.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923231957.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 673634,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231957.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923231949.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 615312,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923231949.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923232025.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 603786,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232025.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923232119.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 833174,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232119.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923232159.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 732920,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232159.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923232227.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 576720,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232227.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923232345.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1019816,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232345.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20230923232400.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1231871,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20230923232400.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240220113906.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 161763,
+      "exportedPath": "lib/media/pasted-image-20240220113906.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240220113925.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 295549,
+      "exportedPath": "lib/media/pasted-image-20240220113925.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240220113948.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 271150,
+      "exportedPath": "lib/media/pasted-image-20240220113948.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240220114141.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 134101,
+      "exportedPath": "lib/media/pasted-image-20240220114141.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240306110618.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 94923,
+      "exportedPath": "lib/media/pasted-image-20240306110618.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240221114706.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 223581,
+      "exportedPath": "lib/media/pasted-image-20240221114706.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240220143821.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 109546,
+      "exportedPath": "lib/media/pasted-image-20240220143821.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240219140158.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 716257,
+      "exportedPath": "lib/media/pasted-image-20240219140158.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240207225953.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 50367,
+      "exportedPath": "lib/media/pasted-image-20240207225953.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240219140114.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 705031,
+      "exportedPath": "lib/media/pasted-image-20240219140114.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240222144046.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 201256,
+      "exportedPath": "lib/media/pasted-image-20240222144046.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240222230926.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 38677,
+      "exportedPath": "lib/media/pasted-image-20240222230926.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240222143501.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 228324,
+      "exportedPath": "lib/media/pasted-image-20240222143501.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240220144348.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 143478,
+      "exportedPath": "lib/media/pasted-image-20240220144348.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240313162857.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 57254,
+      "exportedPath": "lib/media/pasted-image-20240313162857.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/new-atlantis.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1965554,
+      "exportedPath": "brainstorming-things/mood-board/images/new-atlantis.png",
+      "dependencies": []
+    },
+    "images/pasted-image-20240221143340.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 234229,
+      "exportedPath": "images/pasted-image-20240221143340.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20240207224828.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 1531190,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20240207224828.png",
+      "dependencies": []
+    },
+    "brainstorming-things/mood-board/images/pasted-image-20240207224853.png": {
+      "modifiedTime": 1710768585284,
+      "sourceSize": 2068623,
+      "exportedPath": "brainstorming-things/mood-board/images/pasted-image-20240207224853.png",
+      "dependencies": []
+    }
+  }
+}
