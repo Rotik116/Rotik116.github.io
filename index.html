@@ -4,10 +4,11 @@
         
         <link href="style.css" rel="stylesheet" type="text/css" media="all">
         
+        <script src="https://unpkg.com/webamp@1.4.0/built/webamp.bundle.min.js"></script>
+        
     </head>
   <body>
 
-      <script>SCM.showPlaylist(false);</script>
     
         <div id="container"><marquee>RotiK's Awesome, Fantastic, Fabulous and Tubular Website!</marquee><div id="header" style="height: 284px;"></div>
             <div id="headerArea">
@@ -32,21 +33,44 @@
                    <img id="mark" src="https://file.garden/Zeyb3QZmvAenbkoo/rotiMark.png" width="200" height="200" class="mark">
                 </main>
                 
-    <div class="autoplayer">
-        <div class="buttondiv">
-        <button id="button"><i class="fa fa-pause"></i></button>
-    </div>
-
-    <audio loop="" autoplay="" id="player">
-        <source src="https://cdn.discordapp.com/attachments/1218440112979836958/1218440190184521738/Station_Square.Created.With.Ytmdl.mp3?ex=6607abda&is=65f536da&hm=aaf60d9eed91087d3086654168d7bc589a939a03e9ca22c1137930212952bd92&" type="audio/mpeg">
-    </audio>
-    
-    <a target="_blank" href="https://www.youtube.com/watch?v=MB__CgoEEso"><i>Now Playing:<br>Welcome to Station Square - Sonic Adventure</i></a>    
-    <!-- Play button script-->
-        
-    <script src="./NEØNbandit Street_files/PlayButton.js.download"></script>
-    <link rel="stylesheet" href="./NEØNbandit Street_files/font-awesome.min.css">
-  </div>
+   
+                
+        <div style="width:40px; height:40px; position:absolute; bottom:0px; left:0px;">
+	<div id="winamp-container"></div>
+    <script>
+const Winamp = window.Webamp;
+// All configuration options are optional.
+const webamp = new Webamp({
+    // Optional.
+    initialTracks: [
+        {
+            metaData: {
+                artist: "Sonic Adventure",
+                title: "Welcome to Station Square",
+            },
+            url: "https://file.garden/ZgIcx9f4sVrjOQCT/Station_Square.Created.With.Ytmdl.mp3",
+        }, {
+            metaData: {
+                artist: "Artist",
+                title: "Title",
+            },
+            url: "URL TO SONG .mp3",
+        },
+        {
+            metaData: {
+                artist: "Artist",
+                title: "Title",
+            },
+            url: "URL TO SONG .mp3",
+        },
+      ],
+    initialSkin: {
+        url: "https://file.garden/ZgIcx9f4sVrjOQCT/winamp_skin_wsz_06.wsz"
+    },
+});
+webamp.renderWhenReady(document.getElementById('winamp-container'));
+</script>
+</div>
                 
             <aside id="leftSidebar" style="margin-right: 10px;">
                 
