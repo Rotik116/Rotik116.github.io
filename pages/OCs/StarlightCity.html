@@ -16,10 +16,14 @@
         border: red;
     }
     
-    .mainArea {
+    .welcome {
         
         max-width: 45%;
-        margin: 0 auto;
+    }
+    
+    .mainArea {
+        
+      
     }
     
     body {
@@ -32,22 +36,50 @@
         
     }
     
+    .para {
+        
+        border-style: solid;
+        background-color: aliceblue;
+        max-width: 45%;
+        
+    }
+    
+    .awesomeReyn {
+        
+        float:right;
+        width: 30%;
+        height: 30%;
+    }
+    
+    .warning {
+        
+        max-width: 45%;
+    }
+    
 </style>    
   <body>
     
-      <div class="mainArea" id="landing" style="display: block;">
-        <h1>Welcome to Starlight City</h1>
+      <div class="mainArea" id="landing" style="display: block;"> <!--oooo-->
+        <h1 class="welcome">Welcome to Starlight City</h1>
       
+                      <img id="awesomeReyn" class="awesomeReyn" src="https://cdn.discordapp.com/attachments/1168463769026953237/1221845718508109875/image.png?ex=66140f80&is=66019a80&hm=44ce3b18fd67c616b730bd6555b7f22f2bdcdab1d11768c51386acde91da6721&" >
+            
+          
+        <div class="para"> 
         <h3>A city that houses the hopes, dreams and aspirations of everyone in the <i>United Lands of America</i></h3>
         <br>
       
         <P>The Riginator is an upcoming manga created by me and Yuhne, it houses 25+ characters and is still expanding to this day. It is inspired by western superhero comics and shonen manga.</P>
+        </div> 
           
-        <p style="color:red">
+        
+        <p class="warning" style="color:red">
             <i>
                 Please keep in mind that this world is constantly changing, so some elements shown may not be 1:1 with the final manga.
             </i>
         </p>
+    </div>
+          
           
         <a href="/pages/OCs/characters.html" src>
           <button>Meet the characters!</button>
@@ -60,7 +92,6 @@
         <a href="/index.html" src>
           <button>Back to home</button>
         </a>  
-      </div>
       
   </body>
 </html>
